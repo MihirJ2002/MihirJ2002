@@ -1,8 +1,10 @@
 <h1 align="center">Mihir Jadhav</h1>
 
+<h3 align="center">Data Analyst | Business Analyst</h3>
 
-<h3 align="center">Data Analyst 
-
+<p align="center">
+Transforming raw data into actionable business insights through analytics, visualization, and reporting.
+</p>
 
 <!-- ===================== CONTACT ===================== -->
 
@@ -20,12 +22,9 @@
 <img src="https://img.shields.io/badge/GitHub-MihirJ2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
 ---
 
-
-## About me 
+## About me
 
 Data Analyst with hands-on experience in transforming raw data into meaningful business insights using analytics, visualization, and reporting. Skilled in Python, SQL, Excel, Power BI, and Tableau with a strong focus on dashboard development, KPI analysis, and business decision support.
 
@@ -61,17 +60,7 @@ Data Analyst with hands-on experience in transforming raw data into meaningful b
 ## Featured Projects
 
 ### HR Analytics Dashboard
-• Analyzed fundraising campaign data including donor demographics, campaign performance metrics,and marketing channel effectiveness.
-
-• Performed data cleaning, validation, and transformation using Excel and Power Query to improvereporting accuracy.
-
-• Developed interactive KPI dashboards in Looker Studio to monitor donor acquisition, retention,campaign ROI, and conversion rates.
-
-• Conductedexploratory data analysis (EDA)toidentify donation trends and high-performing fundraising categories.
-
-• Applied RCA and SWOT Analysis to uncover key business challenges and optimization opportunities.
-
-• Delivered actionable recommendations that increased donor conversion by 20%, reduced marketingspend wastage by 15%, and improved campaign ROI by 25%.
+Analyzed employee performance, engagement, attrition, and training metrics using Power BI and Excel.
 
 ### Bank Loan Analysis
 Analyzed loan approval patterns, customer risk factors, and default indicators using Python and SQL.

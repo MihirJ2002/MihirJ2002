@@ -31,7 +31,7 @@
 ## 🚀 About Me
 
 <p align="right">
-  <img src="./Profile.png" width="330" align="right">
+  <img src="./profile.png" width="330" align="right">
 </p>
 
 I am a passionate **Data Analyst** * with practical knowledge of **SQL, Python, Power BI, Tableau, Excel, and Business Analytics**.

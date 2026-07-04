@@ -1,6 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=%3E_+Mihir+Jadhav"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&repeat=true&width=700&lines=%3E_+Mihir+S+Jadhav;Data+Analyst"
+    alt="Typing SVG"
+  />
 </h1>
+
+
 
 <h2 align="left">📫 Contact Me</h2>
 
